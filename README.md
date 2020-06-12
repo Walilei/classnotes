@@ -1,4 +1,4 @@
-**用chrome瀏覽器需要先安裝插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)才能正常顯示數學公式**
+*用chrome瀏覽器需要先安裝插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)才能正常顯示數學公式*
 
 
 # Lecture 1 #
