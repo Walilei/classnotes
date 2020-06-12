@@ -6,7 +6,7 @@
 預測後的誤差有兩種來源：Bias或Variance。
 當預測值(Estimator)的期望值等於實際值的時候稱為unbiased，例如平均值的估算。
 而樣本變異數的期望值卻不會完全等於實際值的變異數，因此是biased的預測值。
-> <img src="http://www.forkosh.com/mathtex.cgi? m = \frac{1}{N}\sum_{}^{}x^n \neq \mu">$m = \frac{1}{N}\sum_{}^{}x^n \neq \mu$，此時的m為unbiased的預測值
+> $m = \frac{1}{N}\sum_{}^{}x^n \neq \mu$，此時的m為unbiased的預測值
 >
 > 而樣本變異數則是$s^2 = \frac{1}{N}\sum_{}^{}(x^n-m)^2$，$s^2$可用來估測實際的變異數$\sigma^2$
 >
